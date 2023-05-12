@@ -1,0 +1,222 @@
+.navbar {
+  display: flex;
+  position: fixed;
+
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  height: 69px;
+
+  background-color: #0b0819;
+}
+
+.nav-heading {
+  height: 44px;
+
+  margin: 0px 0px 0px 81px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 44px;
+
+  background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.nav-link {
+  margin-right: 106px;
+  margin-left: 424px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 724px) {
+  .navbar {
+    display: flex;
+    position: fixed;
+
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 69px;
+
+    background-color: #0b0819;
+  }
+
+  .nav-heading {
+    width: 83px;
+    height: 44px;
+
+    margin: 0px 0px 0px 14px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .nav-link {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 725px) and (max-width: 934px) {
+  .navbar {
+    display: flex;
+    position: fixed;
+
+    align-items: center;
+    /* justify-content: start; */
+
+    width: 100%;
+    height: 69px;
+
+    background-color: #0b0819;
+  }
+
+  .nav-heading {
+    width: 83px;
+    height: 44px;
+
+    margin: 0px 0px 0px 40px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .nav-link {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 935px) and (max-width: 1124px) {
+  .navbar {
+    display: flex;
+    position: fixed;
+
+    align-items: center;
+    /* justify-content: start; */
+
+    width: 100%;
+    height: 69px;
+
+    background-color: #0b0819;
+  }
+
+  .nav-heading {
+    width: 83px;
+    height: 44px;
+
+    margin: 0px 0px 0px 40px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .nav-link {
+    margin-right: 76px;
+    margin-left: 244px;
+  }
+}
+
+@media screen and (min-width: 1124px) and (max-width: 1384px) {
+  .navbar {
+    display: flex;
+    position: fixed;
+
+    align-items: center;
+    /* justify-content: start; */
+
+    width: 100%;
+    height: 69px;
+
+    background-color: #0b0819;
+  }
+
+  .nav-heading {
+    width: 83px;
+    height: 44px;
+
+    margin: 0px 0px 0px 60px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .nav-link {
+    margin-right: 10px;
+    margin-left: 344px;
+  }
+}
+
+@media screen and (min-width: 1384px) and (max-width: 1500px) {
+  .navbar {
+    display: flex;
+    position: fixed;
+
+    align-items: center;
+    /* justify-content: start; */
+
+    width: 100%;
+    height: 69px;
+
+    background-color: #0b0819;
+  }
+
+  .nav-heading {
+    width: 83px;
+    height: 44px;
+
+    margin: 0px 0px 0px 60px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .nav-link {
+    margin-right: 180px;
+    margin-left: 340px;
+  }
+}

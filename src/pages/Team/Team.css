@@ -1,0 +1,226 @@
+.team {
+  display: flex;
+  align-items: center;
+
+  flex-direction: column;
+  height: 1200px;
+  width: 100%;
+  background-color: #040406;
+}
+
+.team-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+
+  margin-top: 90px;
+  width: 500px;
+  height: 90px;
+  background-color: #0b0819;
+  border-radius: 15px;
+}
+
+.team-content h1 {
+  height: 44px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 44px;
+  background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+@media screen and (min-width: 300px) and (max-width: 580px) {
+  .team {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 90%;
+    height: 90px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .team-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@media screen and (min-width: 581px) and (max-width: 724px) {
+  .team {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 90%;
+    height: 90px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .team-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@media screen and (min-width: 725px) and (max-width: 934px) {
+  .team {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 90px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .team-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@media screen and (min-width: 935px) and (max-width: 1124px) {
+  .team {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 90px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .team-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@media screen and (min-width: 1125px) and (max-width: 1300px) {
+  .team {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 90px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .team-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}

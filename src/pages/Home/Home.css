@@ -1,0 +1,218 @@
+.home {
+  display: flex;
+  align-items: center;
+
+  flex-direction: column;
+  height: 1200px;
+  width: 100%;
+  background-color: #040406;
+}
+
+/* background: #0b0819; */
+.home-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 12px;
+
+  align-items: center;
+  margin-top: 90px;
+  width: 800px;
+  height: 110px;
+  background-color: #0b0819;
+  border-radius: 15px;
+}
+
+.prev-next-btn {
+  display: flex;
+  align-items: center;
+}
+
+.prev-next-btn p {
+  color: white;
+  font-size: 21px;
+  padding: 15px;
+}
+
+.btn {
+  background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+  border-radius: 30px;
+  border: none;
+  width: 90px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.user-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (min-width: 300px) and (max-width: 580px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: 3200px;
+    width: 100%;
+    height: auto;
+    background-color: #040406;
+  }
+  .home-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 180px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+
+  .home-content h1 {
+    height: 44px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 44px;
+    background: linear-gradient(94.37deg, #3387d5 -5.94%, #7a06c9 115.34%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+@media screen and (min-width: 581px) and (max-width: 724px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .home-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 180px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+}
+
+@media screen and (min-width: 725px) and (max-width: 934px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .home-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 200px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+}
+
+@media screen and (min-width: 935px) and (max-width: 1124px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .home-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 200px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+}
+
+@media screen and (min-width: 1125px) and (max-width: 1300px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+  .home-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 100%;
+    height: 150px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+}
+
+@media screen and (min-width: 1325px) and (max-width: 1400px) {
+  .home {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    background-color: #040406;
+  }
+
+  .home-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+
+    margin-top: 90px;
+    width: 900px;
+    height: 150px;
+    background-color: #0b0819;
+    border-radius: 15px;
+  }
+}
